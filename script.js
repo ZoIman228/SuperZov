@@ -16,7 +16,7 @@
 
 // xhr.send(data);
 const url = "https://zovzovzov-48aa.restdb.io/rest/product"
-const api_key = "d453156b01d270172ab746f52cb6897a1d671"
+const api_key = "69343d921c64b97e52dde62f"
 
 const my_header = {
     "Content-Type": 'application/json',
